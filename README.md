@@ -1,6 +1,4 @@
-# CodeAlpha_Diabetes_Prediction
-
-# CodeAlpha - Diabetes Prediction Using Machine Learning
+# Diabetes Prediction Using Machine Learning
 This project predicts whether a person is diabetic based on key health indicators using a Machine Learning model (Logistic Regression).
 ##  Features Used
 - Glucose
